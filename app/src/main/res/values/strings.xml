@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Currency Rates</string>
+    <string name="general_error_message">Error has occured, please try again later.</string>
+    <string name="no_rate_awailable">No exchange rate data is available for the selected currency</string>
+    <string name="usd_pair_last_7_days">/USD pair last 7 days</string>
+</resources>

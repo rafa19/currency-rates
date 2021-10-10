@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#D8232A</color>
+    <color name="currency_color">#33D8232A</color>
+    <color name="text_color1">#222222</color>
+    <color name="text_color2">#80000000</color>
+    <color name="line_color">#DEDEDE</color>
+    <color name="chart_color1">#53CBCB</color>
+    <color name="chart_color2">#1F3A9E</color>
+
+</resources>
